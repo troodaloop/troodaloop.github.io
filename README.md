@@ -127,3 +127,7 @@
 
 </body>
 </html>
+touch .nojekyll
+git add .nojekyll
+git commit -m "Disable Jekyll"
+git push
