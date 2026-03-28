@@ -1,7 +1,3 @@
-touch .nojekyll
-git add .nojekyll
-git commit -m "Disable Jekyll"
-git push
 <!DOCTYPE html>
 <html lang="en">
 <head>
